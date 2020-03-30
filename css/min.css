@@ -1,0 +1,16 @@
+*{
+  font-family: 'Slabo 27px', serif;
+}
+.titulo{
+  text-align: center;
+}
+.texto{
+text-align: right;
+}
+.informacion{
+  text-align: justify;
+  font-size: 24px;
+}
+.dato_texto{
+  background-color: rgba(41, 96, 214, 0.8);
+}
