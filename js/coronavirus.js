@@ -26,6 +26,7 @@ new Morris.Line({
     { dias: '28/mar', Colombia: 608 , Bogota: 261 },
     { dias: '29/mar', Colombia: 702 , Bogota: 294 },
     { dias: '30/mar', Colombia: 798 , Bogota: 350 },
+    { dias: '30/mar', Colombia: 798 , Bogota: 350 },
   ],
   // The name of the data record attribute that contains x-values.
   xkey: 'dias',
@@ -66,6 +67,7 @@ new Morris.Line({
     { dias: '28/mar',Colombia: 10,Bogota: 3},
     { dias: '29/mar',Colombia: 10,Bogota: 3},
     { dias: '30/mar',Colombia: 10,Bogota: 3},
+    { dias: '31/mar',Colombia: 10,Bogota: 3},
   ],
   // The name of the data record attribute that contains x-values.
   xkey: 'dias',
@@ -106,7 +108,8 @@ new Morris.Line({
     { dias: '28/mar',Colombia: 8,Bogota: 5},
     { dias: '29/mar',Colombia: 10,Bogota: 5},
     { dias: '30/mar',Colombia: 13,Bogota: 5},
-    
+    { dias: '30/mar',Colombia: 13,Bogota: 5},
+
   ],
   // The name of the data record attribute that contains x-values.
   xkey: 'dias',
